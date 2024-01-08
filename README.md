@@ -1,0 +1,1 @@
+Deploy: https://chakra-ui-nextjs-table.vercel.app/
